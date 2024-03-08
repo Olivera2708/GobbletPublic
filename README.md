@@ -22,13 +22,13 @@ The 4x4 board offers a more challenging gameplay experience, requiring strategic
 
 ## Game Modes
 
-<p align="center">
-  <img src="images/menu.jpg" width="600"/>
-</p>
-
 ### One Player
 
 In one-player mode, you can play against the computer AI for a challenging solo experience.
+
+<p align="center">
+  <img src="images/4x4.jpg" width="600"/>
+</p>
 
 ### Two Players
 
