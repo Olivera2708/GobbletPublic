@@ -48,7 +48,7 @@ The 4x4 board offers a more challenging experience, requiring deeper strategic t
 In one-player mode, face off against an AI opponent that provides a challenging solo experience.
 
 <p align="center">
-  <img src="images/menu.jpg" width="600"/>
+  <img src="images/one.jpg" width="600"/>
 </p>
 
 ### Two Players
