@@ -6,7 +6,7 @@ Gobblet is a strategic board game. Players aim to be the first to line up three/
     <img src="images/icon.png" width="140"/>
   </div>
   <div>
-    <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.fasttyping">
+    <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.gobblet3d">
       <img src="images/getonplaystore.png" width="200"/>
     </a>
   </div>
