@@ -24,6 +24,10 @@
 - **Game continuation**: Resume your game from where you left off.
 - **Custom profiles**: Track your wins and game history.
 
+<p align="center">
+  <img src="images/main.jpg" width="600"/>
+</p>
+
 
 ## 🧩 Board Options
 
