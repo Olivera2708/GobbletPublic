@@ -97,5 +97,3 @@ Keep track of your progress with the customizable player profile system. Your pr
 
 With your profile, you can showcase your skills and challenge friends or opponents to try and beat your record.
 
-
-Thank you for your interest in *Gobblet*! Whether you're a casual player or a strategic mastermind, we hope you enjoy the game and all it has to offer.
