@@ -1,4 +1,4 @@
-# GobbletPublic
+# Gobblet
 
 **Gobblet** is a highly engaging and strategic board game where two players compete to line up three or four of their pieces in a row—horizontally, vertically, or diagonally. What makes *Gobblet* unique is its exciting "gobbling" mechanism: players can strategically cover their opponent’s smaller pieces, which introduces an added layer of depth and foresight. The game's simplicity in rules and elegant design ensures fun for everyone, from beginners to advanced players, while still offering enough complexity for those who enjoy deep strategic thinking.
 
