@@ -48,6 +48,10 @@ In two-player mode, you have two options:
 - **Local**: Play against a friend on the same device, taking turns to make moves.
 - **Online**: Challenge random opponents online for exciting multiplayer matches.
 
+<p align="center">
+  <img src="images/online.jpg" width="600"/>
+</p>
+
 ## Continue Game
 
 If you need to take a break, don't worry! You can continue your game later from where you left off.
@@ -56,7 +60,7 @@ If you need to take a break, don't worry! You can continue your game later from 
   <img src="images/continue.jpg" width="600"/>
 </p>
 
-##Profile
+## Profile
 
 <p align="center">
   <img src="images/profile.jpg" width="600"/>
