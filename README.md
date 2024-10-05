@@ -97,14 +97,5 @@ Keep track of your progress with the customizable player profile system. Your pr
 
 With your profile, you can showcase your skills and challenge friends or opponents to try and beat your record.
 
-## 📱 Download Gobblet Now!
-
-Experience the excitement and strategic depth of *Gobblet* by downloading the game today! Available on the Google Play Store, it's free to download and perfect for players of all skill levels.
-
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.gobblet3d">
-    <img src="images/getonplaystore.png" width="200"/>
-  </a>
-</div>
 
 Thank you for your interest in *Gobblet*! Whether you're a casual player or a strategic mastermind, we hope you enjoy the game and all it has to offer.
