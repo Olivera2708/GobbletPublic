@@ -15,7 +15,6 @@
 
 *Please note that the code for this application is private.* <br/>
 
----
 
 ## 🛠️ Features
 
@@ -25,7 +24,6 @@
 - **Game continuation**: Resume your game from where you left off.
 - **Custom profiles**: Track your wins and game history.
 
----
 
 ## 🧩 Board Options
 
@@ -43,7 +41,6 @@ The 4x4 board offers a more challenging experience, requiring deeper strategic t
   <img src="images/4x4.jpg" width="600"/>
 </p>
 
----
 
 ## 🎮 Game Modes
 
@@ -63,7 +60,6 @@ In two-player mode, enjoy the flexibility of playing with friends or challenging
   <img src="images/online.jpg" width="600"/>
 </p>
 
----
 
 ## ⏸️ Continue Game
 
@@ -73,7 +69,6 @@ If you need to pause, don't worry! Gobblet allows you to save and continue your 
   <img src="images/continue.jpg" width="600"/>
 </p>
 
----
 
 ## 👤 Profile
 
@@ -82,17 +77,5 @@ Track your progress, view your game history, and check your wins with custom pla
 <p align="center">
   <img src="images/profile.jpg" width="600"/>
 </p>
-
----
-
-<div align="center">
-  <div>
-    <a href="https://play.google.com/store/apps/details?id=com.cubeorcoding.gobblet3d">
-      <img src="images/getonplaystore.png" width="200"/>
-    </a>
-  </div>
-</div>
-
----
 
 Thank you for your interest in *Gobblet*! For more information, feel free to reach out or check the game on the Play Store.
