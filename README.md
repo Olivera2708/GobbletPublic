@@ -11,6 +11,7 @@ Gobblet is a strategic board game. Players aim to be the first to line up three/
     </a>
   </div>
 </div>
+<em>Please note that the code for this application is private.</em> <br/>
 
 ## Board Options
 
@@ -26,6 +27,10 @@ The 3x3 board provides a classic gameplay experience suitable for players of all
 
 The 4x4 board offers a more challenging gameplay experience, requiring strategic thinking and careful planning to achieve victory.
 
+<p align="center">
+  <img src="images/4x4.jpg" width="600"/>
+</p>
+
 ## Game Modes
 
 ### One Player
@@ -33,7 +38,7 @@ The 4x4 board offers a more challenging gameplay experience, requiring strategic
 In one-player mode, you can play against the computer AI for a challenging solo experience.
 
 <p align="center">
-  <img src="images/4x4.jpg" width="600"/>
+  <img src="images/menu.jpg" width="600"/>
 </p>
 
 ### Two Players
@@ -51,5 +56,8 @@ If you need to take a break, don't worry! You can continue your game later from 
   <img src="images/continue.jpg" width="600"/>
 </p>
 
-<em>Please note that the code for this application is private.</em> <br/>
-<em>Currently in development...</em>
+##Profile
+
+<p align="center">
+  <img src="images/profile.jpg" width="600"/>
+</p>
